@@ -1,0 +1,30 @@
+# Table of contents
+
+* [Introducing DIGIT Studio](README.md)
+  * [Roadmap](introducing-digit-studio/roadmap.md)
+  * [Release Notes](introducing-digit-studio/release-notes.md)
+
+## Approach
+
+* [Design Approach](approach/design-approach.md)
+* [Value Proposition](approach/value-proposition.md)
+
+## Functional Specifications
+
+* [Features](functional-specifications/features.md)
+* [Use Cases](functional-specifications/use-cases.md)
+
+## Technology
+
+* [Design Architecture](technology/design-architecture.md)
+
+***
+
+* [Common Services](common-services.md)
+* [Core Services](core-services.md)
+
+## Get Started
+
+* [Deploy](get-started/deploy.md)
+* [Configure](get-started/configure.md)
+* [Integrate](get-started/integrate.md)
