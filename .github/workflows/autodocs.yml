@@ -1,0 +1,33 @@
+name: Update Studio Install Docs from install.yaml
+
+on:
+  push:
+    paths:
+      - 'install.yaml'
+
+jobs:
+  update-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Run update script
+        run: python scripts/update_docs.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/
+          git commit -m "Auto-update installation.md from install.yaml" || echo "No changes to commit"
+          git push
