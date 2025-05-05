@@ -14,12 +14,15 @@
 * [Features](functional-specifications/features.md)
 * [Use Cases](functional-specifications/use-cases.md)
 
-## Technology
+## Design Specifications
 
-* [Design Architecture](technology/design-architecture.md)
+* [Design Architecture](design-specifications/design-architecture.md)
 
 ***
 
+* [API Specifications](api-specifications.md)
+* [Design Schemas](design-schemas.md)
+* [Sequence Diagrams](sequence-diagrams.md)
 * [Common Services](common-services.md)
 * [Core Services](core-services.md)
 
