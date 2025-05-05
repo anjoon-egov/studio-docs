@@ -20,9 +20,9 @@
 
 ***
 
-* [API Specifications](api-specifications.md)
-* [Design Schemas](design-schemas.md)
-* [Sequence Diagrams](sequence-diagrams.md)
+* [API Specifications](api-specifications/README.md)
+  * [Design Schemas](api-specifications/design-schemas.md)
+  * [Sequence Diagrams](api-specifications/sequence-diagrams.md)
 * [Common Services](common-services.md)
 * [Core Services](core-services.md)
 
