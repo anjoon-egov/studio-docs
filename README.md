@@ -14,26 +14,29 @@ layout:
 
 # Introducing DIGIT Studio
 
+DIGIT Studio is a critical step forward in simplifying and accelerating urban governance application development on the DIGIT 2.9 LTS platform. It addresses long-standing issues with fragmented service development by introducing a **unified, reusable, and configurable architecture**.
+
 ## About DIGIT Studio
 
-Government and urban governance projects often develop multiple services and user interfaces (UIs) independently for similar use cases. This leads to:
+Urban governance projects typically require numerous services and user interfaces (UIs), which are often developed independently, even for similar use cases. This siloed approach leads to:
 
-* Inconsistent implementations across services.
-* Redundant components, increasing maintenance overhead.
-* Limited reusability, requiring teams to build similar features multiple times.
+* **Inconsistent implementations** across modules.
+* **Duplication of components**, increasing technical debt and maintenance costs.
+* **Low reusability**, forcing teams to rebuild similar capabilities repeatedly.
 
-This fragmented approach slows development, complicates scalability, and increases long-term maintenance efforts.
+This fragmentation hinders scalability, slows down new rollouts, and inflates maintenance efforts.
 
-The DIGIT Studio is a unified, configuration-driven architecture designed to streamline urban governance service development, deployment, and maintenance on DIGIT 2.9 LTS.
+**DIGIT Studio** is a configuration-driven, low-code platform layer on top of **DIGIT 2.9 LTS**, designed to:
 
-**Goals of the DIGIT Studio -**
+* Standardise development practices.
+* Accelerate application rollout across urban services.
+* Centralise and simplify configuration for faster adaptation.
 
-1. Reduce the time needed to build a particular use case. As a reference point, we will use two use cases—License and Permits and Grievance Redressal.
-2. Reduce configuration time for a particular use case. Configuration includes changing the form fields, workflows, users and roles and adding master data.
+It achieves this by providing shared templates, reusable components, and schema-based configuration models that can be applied across different urban governance domains.
 
 ## Useful Links
 
-<table data-card-size="large" data-view="cards"><thead><tr><th><select multiple><option value="L9xAaEJlkgeL" label="Deploy DIGIT Studio" color="blue"></option><option value="jR97WmGnih4E" label="Explore Design Architecture" color="blue"></option><option value="Bm0zX8PNOdL1" label="Configure DIGIT Studio" color="blue"></option></select></th></tr></thead><tbody><tr><td><span data-option="L9xAaEJlkgeL">Deploy DIGIT Studio</span></td></tr><tr><td><span data-option="jR97WmGnih4E">Explore Design Architecture</span></td></tr><tr><td><span data-option="Bm0zX8PNOdL1">Configure DIGIT Studio</span></td></tr><tr><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th><select multiple><option value="L9xAaEJlkgeL" label="Deploy DIGIT Studio" color="blue"></option><option value="jR97WmGnih4E" label="Explore Design Architecture" color="blue"></option><option value="Bm0zX8PNOdL1" label="Configure DIGIT Studio" color="blue"></option><option value="yPoaPa3FCmK4" label="Implementation Phases &#x26; Strategy" color="blue"></option><option value="8Tyk78wOf2b9" label="Explore Design Approach" color="blue"></option></select></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-option="8Tyk78wOf2b9">Explore Design Approach</span></td><td><a href="approach/design-approach.md">design-approach.md</a></td></tr><tr><td><span data-option="jR97WmGnih4E">Explore Design Architecture</span></td><td><a href="design-specifications/design-architecture.md">design-architecture.md</a></td></tr><tr><td><span data-option="Bm0zX8PNOdL1">Configure DIGIT Studio</span></td><td><a href="get-started/configure/">configure</a></td></tr><tr><td><span data-option="yPoaPa3FCmK4">Implementation Phases &#x26; Strategy</span></td><td><a href="get-started/implement.md">implement.md</a></td></tr></tbody></table>
 
 ### Contact Us <a href="#contact-us" id="contact-us"></a>
 
