@@ -1,18 +1,10 @@
 # Design Approach
 
-Government and urban governance projects often develop multiple services and user interfaces (UIs) independently for similar use cases. This leads to:
-
-* Inconsistent implementations across services.
-* Redundant components, increasing maintenance overhead.
-* Limited reusability, requiring teams to build similar features multiple times.
-
-This fragmented approach slows development, complicates scalability, and increases long-term maintenance efforts.
-
 ## DIGIT Studio - An Overview
 
 DIGIT Studio is a no-code configuration platform that empowers eGov partners and SI teams to quickly build, customise, and deploy DIGIT-based services without writing code or relying on engineering backlogs.
 
-The solution seeks to enable SI teams and partners to launch faster, scale configurations confidently across geographies, and reduce their engineering dependency — all within the compliance and guardrails of DIGIT.
+The solution seeks to enable SI teams and partners to launch faster, scale configurations confidently across geographies, and reduce their engineering dependency—all within DIGIT's compliance and guardrails.
 
 ## Pain Points Addressed
 
@@ -23,15 +15,12 @@ The solution seeks to enable SI teams and partners to launch faster, scale confi
 
 ## Audience&#x20;
 
-Role: Partner Project Manager / SI Solution Architect / Lead developers
+* Role: Partner Project Manager / SI Solution Architect / Lead developers
+* Organisation: eGov partner
+* Responsibilities: Lead deployment of DIGIT-based modules across multiple ULBs or states
+* Digital: Fluent with configuration platforms, form engines, low-code tools, Git, Jira
 
-Organisation: eGov partner
-
-Responsibilities: Lead deployment of DIGIT-based modules across multiple ULBs or states
-
-Digital: Fluent with configuration platforms, form engines, low-code tools, Git, Jira
-
-## Phase 1 Outputs
+#### Phase 1 Outputs
 
 The near-term vision for DIGIT Studio (earlier called Solution Framework) is a low-code accelerator on DIGIT 2.9 LTS that enables rapid deployment of configurable apps, helping eGov partners quickly launch systems.
 
@@ -63,27 +52,13 @@ We introduce a Common Solution Framework built on DIGIT Core Services to improve
 
 ### Key Components
 
-#### 1️⃣ Generic Service
-
-Handles requests, validations, and data aggregation across modules.
-
-#### 2️⃣ Application Service
-
-Manages workflows and business logic, extendable via configuration.
-
-#### 3️⃣ Transformer Service
-
-Processes and formats data for integration with other systems.
-
-#### 4️⃣ Registry Service
-
-Stores approved applications and integrates existing records.
-
-#### 5 Dynamic Module Creation
-
-New modules can be added via:\
-🔹 Admin Console – UI-based module creation.\
-🔹 Configuration – Enables modules without code changes.
+1. **Generic Service** - Handles requests, validations, and data aggregation across modules.
+2. **Application Service** - Manages workflows and business logic, extendable via configuration.
+3. **Transformer Service** - Processes and formats data for integration with other systems.
+4. **Registry Service** - Stores approved applications and integrates existing records.
+5. **Dynamic Module Creation -** New modules can be added via:\
+   🔹 Admin Console – UI-based module creation.\
+   🔹 Configuration – Enables modules without code changes.
 
 ### Benefits
 

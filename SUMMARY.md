@@ -29,5 +29,7 @@
 ## Get Started
 
 * [Deploy](get-started/deploy.md)
-* [Configure](get-started/configure.md)
-* [Integrate](get-started/integrate.md)
+* [Configure](get-started/configure/README.md)
+  * [Checklist Flow](get-started/configure/checklist-flow.md)
+  * [Trade License Service](get-started/configure/trade-license-service.md)
+* [Implement](get-started/implement.md)

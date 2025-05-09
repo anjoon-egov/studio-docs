@@ -7,9 +7,11 @@ The system follows a modular, service-oriented architecture designed to:\
 ✔ Optimise backend communication by reducing direct dependencies.\
 ✔ Ensure extensibility through configuration-driven service creation.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Common Services
 
-#### 1️⃣ Generic Service (Orchestrator)
+### 1. Generic Service (Orchestrator)
 
 * Acts as the central entry point for all frontend interactions.
 * Manages request routing, validation, and response aggregation across core services.
@@ -32,7 +34,7 @@ The system follows a modular, service-oriented architecture designed to:\
 ✅ Authorisation Service\
 ✅ Billing & Payment Service
 
-2️⃣ Application Service
+### 2. Application Service
 
 * Manages business logic and orchestrates workflows based on workflow configurations.
 * Provides APIs for frontend interactions and internal service communication.
@@ -40,7 +42,7 @@ The system follows a modular, service-oriented architecture designed to:\
 * Handles dynamic field management, adapting to specific use cases via configuration.
 * Can be extended to support new urban governance modules without additional development.
 
-3️⃣ Transformer Service (Planned for Future Release)
+### 3. Transformer Service (Planned for Future Release)
 
 * Processes and structures data from various sources by:\
   🔹 Adding approved, validated data to the registry.\
@@ -51,7 +53,7 @@ The system follows a modular, service-oriented architecture designed to:\
 * Will function based on configurations for data fetching and transferring.
 * This service is planned for a future release and may not be available in the first beta version.
 
-4️⃣ Record/Registry Service
+### 4. Record/Registry Service
 
 * Acts as a persistent data layer, reducing redundant API calls and improving efficiency.
 * Once an application is approved, it is stored in the registry as a validated record.
@@ -59,13 +61,13 @@ The system follows a modular, service-oriented architecture designed to:\
 * If an external registry is available, data can be pushed to it.
 * If no external registry is required, this service serves as the default registry for the application
 
-5. Generic UI
+### 5. Generic UI
 
 * A configuration-driven UI that dynamically adapts based on service configurations.
 * Supports dynamic forms, workflows, and screens, tailored to specific service needs.
 * Enables a seamless flow from service application to approval and tracking.
 
-#### 6. Console (Planned for Future Release)
+### 6. Console (Planned for Future Release)
 
 * A low-code/no-code platform for dynamically configuring and modifying services.
 * Enables users to create, initialise, and manage services with minimal development effort.
