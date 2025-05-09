@@ -46,9 +46,9 @@ To address these challenges, we propose:
 
 This solution streamlines development, simplifies maintenance, and enhances scalability.
 
-## Proposed Solution: Common Solution Framework
+## Proposed Solution: DIGIT Service Delivery Platform
 
-We introduce a Common Solution Framework built on DIGIT Core Services to improve efficiency and reduce redundancy.
+We introduce the DIGIT Service Delivery Platform built on DIGIT Core Services to improve efficiency and reduce redundancy.
 
 ### Key Components
 
