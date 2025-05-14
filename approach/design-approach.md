@@ -1,8 +1,8 @@
 # Design Approach
 
-## DIGIT Studio - An Overview
+## DIGIT Service Delivery Platform - An Overview
 
-DIGIT Studio is a no-code configuration platform that empowers eGov partners and SI teams to quickly build, customise, and deploy DIGIT-based services without writing code or relying on engineering backlogs.
+DIGIT Service Delivery Platform is a no-code configuration platform that empowers eGov partners and SI teams to quickly build, customise, and deploy DIGIT-based services without writing code or relying on engineering backlogs.
 
 The solution seeks to enable SI teams and partners to launch faster, scale configurations confidently across geographies, and reduce their engineering dependency—all within DIGIT's compliance and guardrails.
 
@@ -22,9 +22,9 @@ The solution seeks to enable SI teams and partners to launch faster, scale confi
 
 #### Phase 1 Outputs
 
-The near-term vision for DIGIT Studio (earlier called Solution Framework) is a low-code accelerator on DIGIT 2.9 LTS that enables rapid deployment of configurable apps, helping eGov partners quickly launch systems.
+The near-term vision for DIGIT Service Delivery Platform is a low-code accelerator on DIGIT 2.9 LTS that enables rapid deployment of configurable apps, helping eGov partners quickly launch systems.
 
-We’re piloting DIGIT Studio with the Local Business License Issuing System, making licensing workflow deployment faster.
+We’re piloting DIGIT Service Delivery Platform with the Local Business License Issuing System, making licensing workflow deployment faster.
 
 ### Problem Statement
 

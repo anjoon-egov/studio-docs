@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introducing DIGIT Studio](README.md)
-  * [Roadmap](introducing-digit-studio/roadmap.md)
-  * [Release Notes](introducing-digit-studio/release-notes.md)
+* [Introducing DIGIT Service Delivery Platform](README.md)
+  * [Roadmap](introducing-digit-service-delivery-platform/roadmap.md)
+  * [Release Notes](introducing-digit-service-delivery-platform/release-notes.md)
 
 ## Approach
 

@@ -12,11 +12,11 @@ layout:
     visible: true
 ---
 
-# Introducing DIGIT Studio
+# Introducing DIGIT Service Delivery Platform
 
-DIGIT Studio is a critical step forward in simplifying and accelerating urban governance application development on the DIGIT 2.9 LTS platform. It addresses long-standing issues with fragmented service development by introducing a **unified, reusable, and configurable architecture**.
+DIGIT Service Delivery Platform is a critical step forward in simplifying and accelerating urban governance application development on the DIGIT 2.9 LTS platform. It introduces a unified, reusable, and configurable architecture to address long-standing issues with fragmented service development.
 
-## About DIGIT Studio
+## About DIGIT Service Delivery Platform
 
 Urban governance projects typically require numerous services and user interfaces (UIs), which are often developed independently, even for similar use cases. This siloed approach leads to:
 
@@ -24,9 +24,9 @@ Urban governance projects typically require numerous services and user interface
 * **Duplication of components**, increasing technical debt and maintenance costs.
 * **Low reusability**, forcing teams to rebuild similar capabilities repeatedly.
 
-This fragmentation hinders scalability, slows down new rollouts, and inflates maintenance efforts.
+This fragmentation hinders scalability, slows new rollouts, and inflates maintenance efforts.
 
-**DIGIT Studio** is a configuration-driven, low-code platform layer on top of **DIGIT 2.9 LTS**, designed to:
+**DIGIT Service Delivery Platform** is a configuration-driven, low-code platform layer on top of **DIGIT 2.9 LTS**, designed to:
 
 * Standardise development practices.
 * Accelerate application rollout across urban services.
@@ -40,7 +40,4 @@ It achieves this by providing shared templates, reusable components, and schema-
 
 ### Contact Us <a href="#contact-us" id="contact-us"></a>
 
-[<img src="https://egov.org.in/wp-content/uploads/2024/06/cropped-Favicon-3-192x192.png" alt="Logo" data-size="line">Contact Us eGov Foundation](https://egov.org.in/contact-us/)
-
-
-
+{% embed url="https://egov.org.in/contact-us/" %}
