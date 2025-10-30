@@ -3,6 +3,19 @@
 * [Introducing DIGIT Service Delivery Platform](README.md)
   * [Roadmap](introducing-digit-service-delivery-platform/roadmap.md)
   * [Release Notes](introducing-digit-service-delivery-platform/release-notes.md)
+  * [UI Docs](introducing-digit-service-delivery-platform/ui-docs/README.md)
+    * [Service Designer](introducing-digit-service-delivery-platform/ui-docs/service-designer/README.md)
+      * [Landing Page](introducing-digit-service-delivery-platform/ui-docs/service-designer/landing-page.md)
+      * [Form Configuration](introducing-digit-service-delivery-platform/ui-docs/service-designer/form-configuration.md)
+      * [Checklist Configuration](introducing-digit-service-delivery-platform/ui-docs/service-designer/checklist-configuration.md)
+      * [Roles Configuration](introducing-digit-service-delivery-platform/ui-docs/service-designer/roles-configuration.md)
+      * [Notification Configuration](introducing-digit-service-delivery-platform/ui-docs/service-designer/notification-configuration.md)
+      * [Workflow / Process Configuration](introducing-digit-service-delivery-platform/ui-docs/service-designer/workflow-process-configuration.md)
+    * [Public Service](introducing-digit-service-delivery-platform/ui-docs/public-service/README.md)
+      * [Apply](introducing-digit-service-delivery-platform/ui-docs/public-service/apply.md)
+      * [Inbox Screen](introducing-digit-service-delivery-platform/ui-docs/public-service/inbox-screen.md)
+      * [Search Screen](introducing-digit-service-delivery-platform/ui-docs/public-service/search-screen.md)
+      * [View Screen](introducing-digit-service-delivery-platform/ui-docs/public-service/view-screen.md)
 
 ## Approach
 

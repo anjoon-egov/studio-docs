@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Introducing DIGIT Service Delivery Platform
 
 DIGIT Service Delivery Platform is a critical step forward in simplifying and accelerating urban governance application development on the DIGIT 2.9 LTS platform. It introduces a unified, reusable, and configurable architecture to address long-standing issues with fragmented service development.
