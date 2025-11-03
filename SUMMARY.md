@@ -22,6 +22,10 @@
   * [Backend API](introducing-digit-service-delivery-platform/backend-api/README.md)
     * [Public-service-init](introducing-digit-service-delivery-platform/backend-api/public-service-init.md)
     * [Public-service](introducing-digit-service-delivery-platform/backend-api/public-service.md)
+  * [Migration Doc](introducing-digit-service-delivery-platform/migration-doc/README.md)
+    * [Public-application Changes](introducing-digit-service-delivery-platform/migration-doc/public-application-changes.md)
+    * [Public-service Changes](introducing-digit-service-delivery-platform/migration-doc/public-service-changes.md)
+    * [Multi arch Changes](introducing-digit-service-delivery-platform/migration-doc/multi-arch-changes.md)
 
 ## Approach
 
