@@ -16,6 +16,12 @@
       * [Inbox Screen](introducing-digit-service-delivery-platform/ui-docs/public-service/inbox-screen.md)
       * [Search Screen](introducing-digit-service-delivery-platform/ui-docs/public-service/search-screen.md)
       * [View Screen](introducing-digit-service-delivery-platform/ui-docs/public-service/view-screen.md)
+  * [Backend Config](introducing-digit-service-delivery-platform/backend-config/README.md)
+    * [Public-service-Init](introducing-digit-service-delivery-platform/backend-config/public-service-init.md)
+    * [Public-service](introducing-digit-service-delivery-platform/backend-config/public-service.md)
+  * [Backend API](introducing-digit-service-delivery-platform/backend-api/README.md)
+    * [Public-service-init](introducing-digit-service-delivery-platform/backend-api/public-service-init.md)
+    * [Public-service](introducing-digit-service-delivery-platform/backend-api/public-service.md)
 
 ## Approach
 
